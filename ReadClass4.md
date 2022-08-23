@@ -25,3 +25,6 @@
 
 ##x===y ? console.log(true) : console.log(false)
 [RESOURSE](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+
+## Things I want to know more about
+> i want to enter deep in events and listeners
