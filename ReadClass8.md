@@ -23,4 +23,4 @@
 [RESOURCE](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## Things I want to know more about
->i want to know more about API and how to create alot of methods on it
+>i want to know more about API and how to create alot of methods on it 
