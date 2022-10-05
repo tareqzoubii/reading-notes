@@ -9,3 +9,4 @@
 # Code 401 - Advanced Software Development
  #### Class1: [Class1](code-401-python/class-01/README.md)
  #### Class2: [Class2](code-401-python/class-02/README.md)
+ #### Class3: [Class3](code-401-python/class-03/README.md)
