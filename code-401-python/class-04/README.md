@@ -24,4 +24,4 @@
 * 'w' -> open the file for writing
 * 'rb' -> open the file in binary mode(read/write -> using the byte mode)
 # ----------
-### ![Certificate](code-401-python/class-04/Untitled.png)
+### ![Certificate](/Untitled.png)
