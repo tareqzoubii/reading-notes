@@ -29,4 +29,3 @@
 ## Resources
 
 [Link1](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
-[Link2](https://towardsdatascience.com/logarithms-exponents-in-complexity-analysis-b8071979e847#:~:text=Logarithmic%20time%20complexity%20log(n,Example%3A%20binary%20search.)
