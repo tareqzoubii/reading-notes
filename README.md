@@ -13,3 +13,4 @@
  #### Class4: [Class4](code-401-python/class-04/README.md)
  #### Class5: [Class5](code-401-python/class-05/README.md)
  #### Class6: [Class6](code-401-python/class-06/README.md)
+ #### Class7: [Class7](code-401-python/class-07/README.md)
