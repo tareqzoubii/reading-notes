@@ -14,3 +14,5 @@
  #### Class5: [Class5](code-401-python/class-05/README.md)
  #### Class6: [Class6](code-401-python/class-06/README.md)
  #### Class7: [Class7](code-401-python/class-07/README.md)
+ #### Class8: [Class8](code-401-python/class-08/README.md)
+ #### Class9: [Ckass9](code-401-python/class-09/README.md)
