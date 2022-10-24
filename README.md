@@ -30,3 +30,4 @@
  #### Class08: [Class08](code-401-python/class-08/README.md)
  #### Class09: [Class09](code-401-python/class-09/README.md)
  #### Class10: [Class10](/code-401-python/Class-10/README.md)
+ #### Class11: [Class11](/code-401-python/class-11/README.md)
