@@ -37,3 +37,5 @@
  #### Class15: [Class15](/code-401-python/class-15/README.md)
  #### Class16: [Class16](/code-401-python/class-16/README.md)
  #### Class17: [Class17](/code-401-python/class-17/README.md)
+ # Module 2
+ #### Class19: [Class19](/code-401-python/class-19/README.md)
