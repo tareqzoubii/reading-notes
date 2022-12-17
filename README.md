@@ -45,4 +45,5 @@
  #### Class23: [Class23](/code-401-python/class-23/README.md)
  #### Class24: [Class24](/code-401-python/class-23/README.md)
  #### Class25: [Class25](/code-401-python/class-25/README.md)
- #### Class26: [Class26]()
+ #### Class26: [Class26](/code-401-python/class-26/README.md)
+ #### Class27: [Class27](/code-401-python/class-27/README.md)
