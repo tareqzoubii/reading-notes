@@ -48,3 +48,5 @@
  #### Class26: [Class26](/code-401-python/class-26/README.md)
  #### Class27: [Class27](/code-401-python/class-27/README.md)
  #### Class28: [Class28](/code-401-python/class-28/README.md)
+ # Part 3
+ #### Class31: [Class31](/code-401-python/class-31/README.md)
