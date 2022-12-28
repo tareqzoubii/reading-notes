@@ -50,3 +50,4 @@
  #### Class28: [Class28](/code-401-python/class-28/README.md)
  # Part 3
  #### Class31: [Class31](/code-401-python/class-31/README.md)
+ #### Class32: [Class32](/code-401-python/class-32/README.md)
